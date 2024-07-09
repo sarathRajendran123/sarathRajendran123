@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathrajendran123" alt="sarathrajendran123" /></a> </p>
 
-- 🔭 I’m currently working on **Fake News Prediction**
-
 - 🌱 I’m currently learning **Promt Engineering and ML Advanced Algorithms**
 
 - 💬 Ask me about **Machine learning, MERN Full stack**
